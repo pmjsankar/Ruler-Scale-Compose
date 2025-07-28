@@ -1,4 +1,4 @@
-# RulerScaleCompose
+# Ruler-Scale-Compose
 
 A Jetpack Compose component that displays a vertical ruler with selectable **cm** and **ft** units, complete with a needle indicator and haptic feedback.
 
