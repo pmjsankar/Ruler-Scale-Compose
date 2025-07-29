@@ -27,7 +27,7 @@ complete with a needle indicator and haptic feedback.
 
 **GIF Preview:**
 
-![Demo GIF](screenshots/demo.gif)
+<img src="screenshots/demo.gif" alt="Demo" width="300"/>
 
 ## Usage
 
