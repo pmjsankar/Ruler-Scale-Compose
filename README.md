@@ -1,4 +1,4 @@
-# RulerScaleCompose
+# Ruler-Scale-Compose
 
 [![Android](https://img.shields.io/badge/platform-Android-green.svg)](https://developer.android.com/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blue)](https://developer.android.com/jetpack/compose)
